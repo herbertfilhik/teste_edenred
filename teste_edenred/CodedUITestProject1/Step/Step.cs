@@ -15,7 +15,6 @@ namespace CodedUITestProject1.Funcionalidade
     [Scope(Tag = "MassaReaproveitavel")]
     [Scope(Tag = "MassaNaoReaproveitavel")]
 
-
     public class Steps
     {
         private WebDriver _webDriver;
@@ -23,7 +22,7 @@ namespace CodedUITestProject1.Funcionalidade
         ElementUtils elementUtils;
         JavaScriptExecute javaScriptExecute;
         protected string DataMass => ConfigurationManager.AppSettings["DataMass"];
-
+        
         public Steps(WebDriver webDriver)
         {
             _webDriver = webDriver;
@@ -61,11 +60,10 @@ namespace CodedUITestProject1.Funcionalidade
                 //Here we can take screenshot
                 //Screenshot screenshotdriver = ((ITakesScreenshot))
 
-                ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile(@"C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\TestResults\CurrentPage.png");
+                ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile(@"C:\teste_edenred\teste_edenred\TestResults\teste.png");
 
             }
         }
-
 
         //##############################################################################################
         //[ Métodos Given ]#############################################################################
@@ -80,6 +78,7 @@ namespace CodedUITestProject1.Funcionalidade
             {
                 case "Edenred":
                     driver.Url = "https://www.edenredprepagos.com.br/";
+                    ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile(@"C:\teste_edenred\teste_edenred\TestResults\teste1.png");
                     break;
                 default:
                     break;
@@ -92,7 +91,11 @@ namespace CodedUITestProject1.Funcionalidade
         [When(@"eu aguardar por ""(.*)"" segundos")]
         public void StepWait(int waitTime)
         {
+
+            var driver = _webDriver.Current;
+
             Thread.Sleep(TimeSpan.FromSeconds(waitTime));
+            ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile(@"C:\teste_edenred\teste_edenred\TestResults\teste2.png");
         }
 
         [When(@"eu clicar no botão ""(.*)""")]
@@ -101,13 +104,19 @@ namespace CodedUITestProject1.Funcionalidade
         [When(@"eu clicar no ícone ""(.*)""")]
         public void StepElementClick(string element)
         {
+            var driver = _webDriver.Current;
+
             elementUtils.MethodElementClick(element);
+            ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile(@"C:\teste_edenred\teste_edenred\TestResults\teste3.png");
         }
 
         [When(@"no campo ""(.*)"" eu digitar ""(.*)""")]
         public void StepElementFieldSendKeys(string elementDataType, string element)
         {
+            var driver = _webDriver.Current;
+
             elementUtils.MethodElementFieldSendKeys(elementDataType, element);
+            ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile(@"C:\teste_edenred\teste_edenred\TestResults\teste4.png");
         }
 
 
@@ -117,7 +126,10 @@ namespace CodedUITestProject1.Funcionalidade
         [Then(@"rolando para baixo o sistema apresenta os dados")]
         public void EntaoRolandoParaBaixoOSistemaApresentaOsDados()
         {
-            javaScriptExecute.Executescript2(_webDriver);            
+            var driver = _webDriver.Current;
+
+            javaScriptExecute.Executescript2(_webDriver);
+            ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile(@"C:\teste_edenred\teste_edenred\TestResults\teste5.png");
         }
     }
 }
