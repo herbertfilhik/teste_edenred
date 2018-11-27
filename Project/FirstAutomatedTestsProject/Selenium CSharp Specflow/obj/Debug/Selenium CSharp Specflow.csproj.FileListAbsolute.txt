@@ -1,0 +1,175 @@
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\Microsoft.Web.Publishing.Tasks.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\NConsoler.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\Newtonsoft.Json.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\RazorEngine.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\RestSharp.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\SpecRun.exe
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\SpecRun.exe.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile.xsd
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile_2011_09.xsd
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\System.Web.Razor.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Common.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Utils.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.Commands.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Framework.Executor.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Default.srprofile
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll.config
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.pdb
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\ExtentReports.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\HtmlAgilityPack.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Bson.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Driver.Core.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Driver.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\RazorEngine.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.ValueTuple.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.Web.Razor.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.Support.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Gherkin.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\HtmlAgilityPack.pdb
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\HtmlAgilityPack.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Bson.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Driver.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Driver.Core.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.pdb
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\RazorEngine.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.ValueTuple.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.Support.xml
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.csprojAssemblyReference.cache
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.csproj.CoreCompileInputs.cache
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.csproj.CopyComplete
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.dll
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.pdb
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\Microsoft.Web.Publishing.Tasks.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\NConsoler.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\Newtonsoft.Json.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\RazorEngine.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\RestSharp.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\SpecRun.exe
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\SpecRun.exe.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile.xsd
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile_2011_09.xsd
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\System.Web.Razor.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Common.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Utils.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.CommandClient.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.Commands.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Framework.Executor.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Default.srprofile
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll.config
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.pdb
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\ExtentReports.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\HtmlAgilityPack.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Bson.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Driver.Core.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Driver.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Newtonsoft.Json.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\RazorEngine.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.ValueTuple.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.Web.Razor.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.Support.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Gherkin.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\HtmlAgilityPack.pdb
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\HtmlAgilityPack.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Bson.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Driver.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\MongoDB.Driver.Core.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.pdb
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\nunit.framework.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\RazorEngine.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\System.ValueTuple.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\WebDriver.Support.xml
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.csprojAssemblyReference.cache
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.csproj.CoreCompileInputs.cache
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.csproj.CopyComplete
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\obj\Debug\Selenium CSharp Specflow.pdb
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll

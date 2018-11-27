@@ -1,0 +1,36 @@
+﻿2018-11-26T20:32:25.5503533-02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-11-26T20:32:25.5583626-02:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-11-26T20:32:25.5583626-02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-11-26T20:32:25.8843570-02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-11-26T20:32:25.8843570-02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll
+2018-11-26T20:32:25.8843570-02:00;VSTestExecutionThread;Info;Profile: Selenium CSharp Specflow
+2018-11-26T20:32:39.9659901-02:00;Thread#15;Info;starting test run
+2018-11-26T20:32:39.9769833-02:00;Thread#15;Info;Discovering target: Default
+2018-11-26T20:32:39.9769833-02:00;Thread#15;Info;Discovering tests from assembly: C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow\bin\Debug\Selenium CSharp Specflow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: Selenium CSharp Specflow/Selenium CSharp Specflow - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-11-26T20:32:40.1369881-02:00;Thread#15;Info;test run finished
+2018-11-26T20:32:40.1379882-02:00;Thread#15;Info;publishing test results
+2018-11-26T20:32:40.2039880-02:00;Thread#15;Info;test results published
+2018-11-26T20:32:40.2049896-02:00;Thread#15;Info;generating reports
+2018-11-26T20:32:40.2179881-02:00;Thread#15;Info;creating 1 report(s)
+2018-11-26T20:32:40.2189893-02:00;Thread#15;Info;generate Report ReportTemplate.cshtml
+2018-11-26T20:32:41.5589907-02:00;Thread#15;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2018-11-26T20:32:41.5639880-02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-11-26T20:32:41.5639880-02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\TestResults\Selenium CSharp Specflow_Selenium CSharp Specflow_2018-11-26T203225.html'
+2018-11-26T20:32:41.5719902-02:00;VSTestExecutionThread;Info;Log file: file:///C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\TestResults\Selenium%20CSharp%20Specflow_Selenium%20CSharp%20Specflow_2018-11-26T203225.log
