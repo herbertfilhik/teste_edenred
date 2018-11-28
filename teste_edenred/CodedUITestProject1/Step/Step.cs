@@ -1,14 +1,12 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using BoDi;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Support.Extensions;
 using System;
 using System.Configuration;
-using System.Drawing.Imaging;
-using System.IO;
 using System.Threading;
 using TechTalk.SpecFlow;
+using CodedUITestProject1.Funcionalidade;
 
-namespace CodedUITestProject1.Funcionalidade
+namespace CodedUITestProject1
 {
     [Binding]
     [Scope(Tag = "TestScenario")]
@@ -17,13 +15,19 @@ namespace CodedUITestProject1.Funcionalidade
 
     public class Steps
     {
+
         private WebDriver _webDriver;
         AssertUtils assertUtils;
         ElementUtils elementUtils;
         JavaScriptExecute javaScriptExecute;
+
         protected string DataMass => ConfigurationManager.AppSettings["DataMass"];
-        
-        public Steps(WebDriver webDriver)
+
+        private readonly IObjectContainer _objectContainer;
+
+
+
+        public Steps(WebDriver webDriver, IObjectContainer objectContainer)
         {
             _webDriver = webDriver;
             _webDriver.Current.Manage().Window.Maximize();
@@ -31,21 +35,44 @@ namespace CodedUITestProject1.Funcionalidade
             assertUtils = new AssertUtils(webDriver);
             javaScriptExecute = new JavaScriptExecute(webDriver);
 
+            _objectContainer = objectContainer;
+
         }
 
         //##############################################################################################
         //[ Métodos Gancho(Hooks) ]#####################################################################
 
+        [BeforeFeature]
+        public static void BeforeFeature()
+        {
+        }
+
         [BeforeScenario]
         public void before()
         {
             Console.WriteLine("Running feature -> " + FeatureContext.Current.FeatureInfo.Title);
-            Console.WriteLine("Running feature -> " + ScenarioContext.Current.ScenarioInfo.Title);
+            Console.WriteLine("Running feature  -> " + ScenarioContext.Current.ScenarioInfo.Title);
+        }
+
+        [AfterStep]
+        public void InsertReportingSteps()
+        {
+        }
+
+        [BeforeTestRun]
+        public static void InitializeReport()
+        {
+        }
+
+        [AfterTestRun]
+        public static void TearDownReport()
+        {
         }
 
         [AfterScenario]
         public void tearDown()
         {
+
             var driver = _webDriver.Current;
 
             if (_webDriver != null)
