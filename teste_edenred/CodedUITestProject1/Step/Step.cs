@@ -5,6 +5,8 @@ using System.Configuration;
 using System.Threading;
 using TechTalk.SpecFlow;
 using CodedUITestProject1.Funcionalidade;
+using NUnit.Framework;
+using RelevantCodes.ExtentReports;
 
 namespace CodedUITestProject1
 {
@@ -13,8 +15,11 @@ namespace CodedUITestProject1
     [Scope(Tag = "MassaReaproveitavel")]
     [Scope(Tag = "MassaNaoReaproveitavel")]
 
+    [TestFixture]
     public class Steps
     {
+        public ExtentReports extent;
+        public ExtentTest test;
 
         private WebDriver _webDriver;
         AssertUtils assertUtils;
@@ -24,8 +29,6 @@ namespace CodedUITestProject1
         protected string DataMass => ConfigurationManager.AppSettings["DataMass"];
 
         private readonly IObjectContainer _objectContainer;
-
-
 
         public Steps(WebDriver webDriver, IObjectContainer objectContainer)
         {
@@ -92,9 +95,61 @@ namespace CodedUITestProject1
             }
         }
 
-        //##############################################################################################
-        //[ Métodos Given ]#############################################################################
+        [OneTimeSetUp]
+        public void StartReport()
+        {
+            string pth = System.Reflection.Assembly.GetCallingAssembly().CodeBase;
+            string actualPath = pth.Substring(0, pth.LastIndexOf("bin"));
+            string projectPath = new Uri(actualPath).LocalPath;
 
+            string reportPath = projectPath + "Reports\\MyOwnReport.html";
+            extent = new ExtentReports(reportPath, true);
+
+            extent.AddSystemInfo("Host Name", "Krishna")
+                    .AddSystemInfo("Environment", "QA")
+                    .AddSystemInfo("User Name", "Krishna Sakinala");
+
+            extent.LoadConfig(projectPath + "extent-config.xml");
+        }
+
+        public void DemoReportPass()
+        {
+            test = extent.StartTest("Demo Report Pass");
+            Assert.IsTrue(true);
+            test.Log(LogStatus.Pass, "Assert Pass as Cond is True");
+        }
+
+        public void DemoReportFail()
+        {
+            test = extent.StartTest("Demo Report Fail");
+            Assert.IsTrue(false);
+            test.Log(LogStatus.Pass, "Assert Pass as Cond is False");
+        }
+
+        [TearDown]
+        public void GetResult()
+        {
+            var status = TestContext.CurrentContext.Result.Outcome.Status;
+            var stackTrace = "<pre>" + TestContext.CurrentContext.Result.StackTrace + "</pre>";
+            var errorMessage = TestContext.CurrentContext.Result.Message;
+
+            if (status == NUnit.Framework.Interfaces.TestStatus.Failed)
+            {
+                test.Log(LogStatus.Fail, status + errorMessage);
+            }
+            extent.EndTest(test);
+        }
+
+        [OneTimeTearDown]
+        public void EndReport()
+        {
+            extent.Flush();
+            extent.Close();
+        }
+
+
+        //##############################################################################################
+        //[ Métodos Given ]#############################################################################    
         [Given(@"que estou na página ""(.*)""")]
         [Given(@"que eu acesse a pagina ""(.*)""")]
         public void StepPages(string url)
@@ -110,11 +165,11 @@ namespace CodedUITestProject1
                 default:
                     break;
             }
+
         }
 
         //##############################################################################################
         //[ Métodos When ]##############################################################################
-
         [When(@"eu aguardar por ""(.*)"" segundos")]
         public void StepWait(int waitTime)
         {

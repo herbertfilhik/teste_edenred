@@ -45,6 +45,7 @@ C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\CodedUITestProject1
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\Newtonsoft.Json.dll
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\nunit.framework.dll
+C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\RelevantCodes.ExtentReports.dll
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\Selenium.Helper.dll
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\SpecRun.SpecFlowPlugin.dll
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\System.ValueTuple.dll
@@ -71,6 +72,7 @@ C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\System.Web.WebPages
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\System.Web.WebPages.Razor.xml
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\WebDriver.xml
 C:\teste_edenred\teste_edenred\CodedUITestProject1\bin\Debug\WebDriver.Support.xml
+C:\teste_edenred\teste_edenred\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojAssemblyReference.cache
 C:\teste_edenred\teste_edenred\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.CoreCompileInputs.cache
 C:\teste_edenred\teste_edenred\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.CopyComplete
 C:\teste_edenred\teste_edenred\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
