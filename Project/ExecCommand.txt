@@ -1,1 +1,1 @@
-C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow>dotnet test "Selenium CSharp Specflow.csproj"
+C:\Projetos_Herbert\teste_edenred\Project\FirstAutomatedTestsProject\Selenium CSharp Specflow>dotnet test "Selenium CSharp Specflow.csproj" 
